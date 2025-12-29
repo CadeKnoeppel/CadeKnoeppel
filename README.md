@@ -11,15 +11,15 @@ Areas of Focus
 Current Work
 - Developing a penetration testing portfolio with documented lab writeups
 - Strengthening fundamentals in networking, Linux, and security tooling
-- Applying offensive security concepts in controlled, legal environments
+- Applying offensive security concepts in controlled lab environments
 
 Portfolio
 Penetration testing labs and writeups:  
-https://github.com/yourusername/pentesting-portfolio
+https://github.com/CadeKnoeppel?tab=repositories
 
 Contact
 - LinkedIn: https://www.linkedin.com/in/cade-knoeppel
-- Location: Milwaukee, WI
 - Email: cadeknoeppel17@gmail.com
+- Location: Milwaukee, WI
 
 All work is performed in authorized lab environments for educational purposes.
