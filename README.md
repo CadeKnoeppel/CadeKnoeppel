@@ -20,5 +20,6 @@ https://github.com/yourusername/pentesting-portfolio
 Contact
 - LinkedIn: https://www.linkedin.com/in/cade-knoeppel
 - Location: Milwaukee, WI
+- Email: cadeknoeppel17@gmail.com
 
 All work is performed in authorized lab environments for educational purposes.
