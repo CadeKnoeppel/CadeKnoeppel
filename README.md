@@ -15,7 +15,7 @@ Current Work
 
 Portfolio
 Penetration testing labs and writeups:  
-https://github.com/CadeKnoeppel?tab=repositories
+https://github.com/CadeKnoeppel/pentesting-portfolio
 
 Contact
 - LinkedIn: https://www.linkedin.com/in/cade-knoeppel
