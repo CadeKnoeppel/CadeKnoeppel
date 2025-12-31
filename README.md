@@ -22,4 +22,4 @@ https://github.com/CadeKnoeppel/pentesting-portfolio
 - Email: cadeknoeppel17@gmail.com
 - Location: Milwaukee, WI
 
-All work is performed in authorized lab environments for educational purposes.
+All work is performed in authorized lab environments.
